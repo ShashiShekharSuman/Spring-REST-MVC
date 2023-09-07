@@ -1,13 +1,13 @@
-Tech Stack
-  Java: 17
-  Spring Boot: 3.1.3
-  MySql
-  HTML
-  CSS
-
-Spring Boot Application
--- REST API
--- Employee CRUD Operations
--- Bean Validation
--- Exception Handling
--- Spring MVC
+Tech Stack: </br>
+  Java: 17 </br>
+  Spring Boot: 3.1.3 </br>
+  MySql </br>
+  HTML </br>
+  CSS </br>
+</br>
+Spring Boot Application </br>
+-- REST API </br>
+-- Employee CRUD Operations </br>
+-- Bean Validation </br>
+-- Exception Handling </br>
+-- Spring MVC </br>
